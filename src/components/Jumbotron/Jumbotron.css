@@ -1,0 +1,24 @@
+.jumbotron {
+    display: flex;
+    background-color: #f7f7f7;
+    padding: 2rem 1rem 3rem 10rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+.jumbotron-text {
+    width: 50%;
+}
+
+.jumbotron-animation {
+    width: 50%;
+}
+
+.jumbotron h1 {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.jumbotron p {
+    margin-bottom: 1rem;
+}

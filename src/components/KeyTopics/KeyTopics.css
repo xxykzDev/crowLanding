@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-direction: column;
+    height: 200px; /* Establece la altura deseada */
+  }
+  
+  .card {
+    width: 100%;
+  }
+  
+  .card-description {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #555;
+    margin-top: 1rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
