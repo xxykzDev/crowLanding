@@ -7,7 +7,7 @@ const Jumbotron = () => {
         <div className="jumbotron">
             <div className="jumbotron-text">
                 <h1>Welcome to our Crypto Real Estate Crowdfunding website!</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia magnam error a labore ut minima vero deserunt, reprehenderit, veritatis quas voluptates perferendis fugiat consequuntur beatae facilis ratione provident odit magni. Unde itaque iure sed vero ipsam omnis nisi. Sapiente, laudantium!</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia magnam error a labore ut minima vero deserunt, reprehenderit, veritatis quas voluptates perferendis fugiat consequuntur beatae facilis ratione provident odit magni.</p>
                 <Button label="Join Now!" className="p-button" />
             </div>
             <div className="jumbotron-animation">
