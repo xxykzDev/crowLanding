@@ -5,6 +5,13 @@
   /* background-color: red; */
 }
 
+.container-title{
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  border: 0;
+}
+
 .card-container {
   display: flex;
   flex-direction: column;

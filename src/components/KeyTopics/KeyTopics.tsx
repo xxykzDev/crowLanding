@@ -4,15 +4,18 @@ import './KeyTopics.css';
 
 const KeyTopics = () => {
   const cardStyle = {
+    textAlign:'center',
     borderRadius: '0px',
     border: 'none',
     boxShadow: 'none',
-    padding: '2rem',
+    paddingBottom: '2rem',
+    paddingLeft: '2rem',
+    paddingRight: '2rem'
   };
 
   return (
     <>
-    <h1 className='container'>Another way to do real state</h1>
+    <h1 className='container-title'>Another way to do real state</h1>
     <div className="container">
       <div className="card-container">
         <Card style={cardStyle} className="card">
