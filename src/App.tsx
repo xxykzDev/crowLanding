@@ -4,6 +4,7 @@ import Navbar from './components/Navbar/Navbar'
 import './index.css'
 import Jumbotron from './components/Jumbotron/Jumbotron';
 import KeyTopics from './components/KeyTopics/KeyTopics';
+import InvestorAndBuilderView from './components/businessDescription/InvestorAndBusinessView';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Navbar></Navbar>
       <Jumbotron></Jumbotron>
       <KeyTopics></KeyTopics>
+      <InvestorAndBuilderView></InvestorAndBuilderView>
     </>
   )
 }
